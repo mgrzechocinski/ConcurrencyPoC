@@ -1,0 +1,12 @@
+*.iml
+classes
+idea
+.settings
+.project
+.classpath
+bin
+gen
+build
+target
+out
+.idea
